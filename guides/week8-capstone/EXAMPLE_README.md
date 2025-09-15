@@ -1,3 +1,4 @@
+````markdown
 # 🎯 Capstone Project: [Your Project Name]
 
 ## 📖 About  
@@ -80,4 +81,4 @@ Describe your project here. What does your application do? What APIs and AI feat
 
 ## 🙌 Acknowledgements  
 List any people, resources, or APIs you used while working on this project.  
-
+````
