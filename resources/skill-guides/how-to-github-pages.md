@@ -46,7 +46,7 @@ GitHub Pages automatically builds and serves your website from your repository. 
 
 - While you are waiting, Designate your Pages site as your official website for your repo.
 
-1. Go the the main repo site, and click the Gear Icon to the right.
+1. Go back to the "Code" tab on the main repo site, and click the Gear Icon to the right.
 
 ![Settings Tab Highlighted](./assets/how-to-github-pages/02-settings-tab-highlighted-in-repository-sidebar.png)
 
